@@ -94,10 +94,10 @@ The main features of LPC2148 include the following.
 ```
 ## Output  :
 ### LED ON
-<img src="https://github.com/Aakash0407/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/118799103/33b3bcd4-f4ff-4d3c-9145-e2e425d1a936" width="700" height="800">
+![RAJKIRAN1](https://github.com/Rajkiran06/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/160995681/9706fdcc-37ee-4d38-a7f0-97bcabfdea1a)
 
 ### LED OFF
-<img src="https://github.com/Aakash0407/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/118799103/0443f83b-e924-4763-9357-b01faff24126" width="700" height="800">
+![RAJKIRAN2](https://github.com/Rajkiran06/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/160995681/75d970c6-4e44-4813-ae6b-578b9da51935)
 
 ## Result :
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
